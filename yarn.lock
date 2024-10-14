@@ -799,10 +799,10 @@ hasown@^2.0.2:
   dependencies:
     function-bind "^1.1.2"
 
-hono@^4.5.9:
-  version "4.5.9"
-  resolved "https://registry.yarnpkg.com/hono/-/hono-4.5.9.tgz#2627c55c4c97ae826973dddac857ba4476fde6c6"
-  integrity sha512-zz8ktqMDRrZETjxBrv8C5PQRFbrTRCLNVAjD1SNQyOzv4VjmX68Uxw83xQ6oxdAB60HiWnGEatiKA8V3SZLDkQ==
+hono@^4.6.4:
+  version "4.6.4"
+  resolved "https://registry.yarnpkg.com/hono/-/hono-4.6.4.tgz#fbca01aa2b68dd4aea49d6eddf6b97a91cd9019f"
+  integrity sha512-T5WqBkTOcIQblqBKB5mpzaH/A+dSpvVe938xZJCHOmOuYfF7DSwE/9/10+BMvwSPq9N/f6LiQ38HxrZSQOsXKw==
 
 human-signals@^5.0.0:
   version "5.0.0"
